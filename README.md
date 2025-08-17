@@ -40,7 +40,6 @@ Aspiring Full Stack Java Developer with a strong foundation in building scalable
 - Routing (React Router)
 - Form Handling & Validation
 - Testing (Jest, React Testing Library)
-- Webpack, Babel
 
 #### **Other Technologies**
 - HTML5, CSS3, JavaScript (ES6+)
