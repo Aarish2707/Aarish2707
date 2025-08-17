@@ -2,7 +2,18 @@
 
 ## 🚀 Java Full Stack Developer
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&width=435&lines=Full+Stack+Developer;Spring+Boot+%7C+Java+%7C+AngularJS;Cricket+%7C+Badminton+Enthusiast)](https://git.io/typing-svg)
+
+
 Aspiring Full Stack Java Developer with a strong foundation in building scalable applications using **Java** and **React.js**. On a mission to contribute to impactful products.
+
+---
+
+
+![Java](https://img.shields.io/badge/Code-Java-orange?style=flat&logo=java)
+![Spring Boot](https://img.shields.io/badge/Framework-SpringBoot-green?style=flat&logo=springboot)
+![MySQL](https://img.shields.io/badge/Database-MySQL-blue?style=flat&logo=mysql)
+![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue?style=flat&logo=visual-studio-code)
 
 ---
 
@@ -39,13 +50,6 @@ Aspiring Full Stack Java Developer with a strong foundation in building scalable
 
 ---
 
-![Java](https://img.shields.io/badge/Code-Java-orange?style=flat&logo=java)
-![Spring Boot](https://img.shields.io/badge/Framework-SpringBoot-green?style=flat&logo=springboot)
-![MySQL](https://img.shields.io/badge/Database-MySQL-blue?style=flat&logo=mysql)
-![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue?style=flat&logo=visual-studio-code)
-
----
-
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Aarish2707&show_icons=true&theme=radical)
 
 ![Langs mostly i use](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarish2707&layout=compact&theme=radical)
@@ -78,7 +82,10 @@ _A MERN based user-management-system._
 
 ### 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/aarish-sheikh-850592315)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]((https://www.linkedin.com/in/aarish-sheikh-850592315))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/its_aarish_33/)
+
+
 
 ---
 
