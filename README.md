@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Aarish Sheikh
 
-## 🚀 Java Full Stack Developer
+## 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&width=435&lines=Full+Stack+Developer;Spring+Boot+%7C+Java+%7C+AngularJS;Cricket+%7C+Badminton+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&width=435&lines=🚀+Java+Full+Stack+Developer;Spring+Boot+%7C+Java+%7C+AngularJS+%7C+React.Js;Cricket+%7C+Badminton+Enthusiast)](https://git.io/typing-svg)
 
 
 Aspiring Full Stack Java Developer with a strong foundation in building scalable applications using **Java** and **React.js**. On a mission to contribute to impactful products.
