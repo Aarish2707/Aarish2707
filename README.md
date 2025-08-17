@@ -9,7 +9,6 @@ Aspiring Full Stack Java Developer with a strong foundation in building scalable
 ### 💡 Skills
 
 #### **Java Development**
-!(https://img.shields.io/badge/Code-Java-orange?style=flat&logo=java)
 - Core Java, OOP Principles
 - Spring Boot, Spring MVC, Spring Security, Collections
 - RESTful API Development
@@ -37,6 +36,13 @@ Aspiring Full Stack Java Developer with a strong foundation in building scalable
 - Git & GitHub
 - Agile & Scrum Methodologies
 - VS Code, IntelliJ IDEA
+
+---
+
+![Java](https://img.shields.io/badge/Code-Java-orange?style=flat&logo=java)
+![Spring Boot](https://img.shields.io/badge/Framework-SpringBoot-green?style=flat&logo=springboot)
+![MySQL](https://img.shields.io/badge/Database-MySQL-blue?style=flat&logo=mysql)
+![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue?style=flat&logo=visual-studio-code)
 
 ---
 
