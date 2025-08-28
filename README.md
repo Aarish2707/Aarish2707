@@ -82,6 +82,8 @@ Aspiring Full Stack Java Developer with a strong foundation in building scalable
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Aarish2707&show_icons=true&theme=radical)
 
+[![Aarish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 ![Langs mostly i use](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarish2707&layout=compact&theme=radical)
 
 ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user==Aarish2707&theme=radical)
