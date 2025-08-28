@@ -11,40 +11,41 @@ Aspiring Full Stack Java Developer with a strong foundation in building scalable
 
 
 ### 💻 Programming Languages  
-![C](https://img.shields.io/badge/Code-C-orange?style=flat&logo=c)  
-![Java](https://img.shields.io/badge/Code-Java-orange?style=flat&logo=openjdk)  
-![Python](https://img.shields.io/badge/Code-Python-orange?style=flat&logo=python)  
-![SQL](https://img.shields.io/badge/Code-SQL-blue?style=flat&logo=postgresql)  
-![HTML5](https://img.shields.io/badge/Code-HTML5-orange?style=flat&logo=html5)  
-![CSS3](https://img.shields.io/badge/Code-CSS3-blue?style=flat&logo=css3)  
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-orange?style=flat&logo=javascript)  
+![C](https://img.shields.io/badge/C-orange?style=flat&logo=c)
+![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-orange?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/SQL-blue?style=flat&logo=postgresql)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-orange?style=flat&logo=javascript)
 
 ---
 
 ### ⚙️ Frameworks & Libraries  
-![Spring Boot](https://img.shields.io/badge/Framework-SpringBoot-green?style=flat&logo=springboot)  
-![Django](https://img.shields.io/badge/Framework-Django-green?style=flat&logo=django)  
-![AngularJS](https://img.shields.io/badge/Framework-AngularJS-red?style=flat&logo=angularjs)  
-![React](https://img.shields.io/badge/Framework-React-blue?style=flat&logo=react)  
+![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=flat&logo=springboot)
+![Django](https://img.shields.io/badge/Django-green?style=flat&logo=django)
+![AngularJS](https://img.shields.io/badge/AngularJS-red?style=flat&logo=angularjs)
+![React](https://img.shields.io/badge/React-blue?style=flat&logo=react)
 
 ---
 
 ### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/Database-MySQL-blue?style=flat&logo=mysql)  
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue?style=flat&logo=postgresql)  
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-green?style=flat&logo=mongodb)  
-![Vector DB](https://img.shields.io/badge/Database-VectorDB-purple?style=flat&logo=databricks)  
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb)
+![Vector DB](https://img.shields.io/badge/VectorDB-purple?style=flat&logo=databricks)
 
 ---
 
 ### 🛠️ Development Tools & IDEs  
-![VS Code](https://img.shields.io/badge/IDE-VS%20Code-blue?style=flat&logo=visual-studio-code)  
-![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-purple?style=flat&logo=intellij-idea)  
-![Eclipse](https://img.shields.io/badge/IDE-Eclipse-darkblue?style=flat&logo=eclipse)  
-![Shopify](https://img.shields.io/badge/Tool-Shopify-green?style=flat&logo=shopify)  
-![Postman](https://img.shields.io/badge/Tool-Postman-orange?style=flat&logo=postman)  
-![Git](https://img.shields.io/badge/Tool-Git-red?style=flat&logo=git)  
-![GitHub](https://img.shields.io/badge/Tool-GitHub-black?style=flat&logo=github)  
+![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=flat&logo=visual-studio-code)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-purple?style=flat&logo=intellij-idea)
+![Eclipse](https://img.shields.io/badge/Eclipse-darkblue?style=flat&logo=eclipse)
+![Shopify](https://img.shields.io/badge/Shopify-green?style=flat&logo=shopify)
+![Postman](https://img.shields.io/badge/Postman-orange?style=flat&logo=postman)
+![Git](https://img.shields.io/badge/Git-red?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
+ 
 
 
 ---
