@@ -24,7 +24,7 @@ Aspiring Full Stack Java Developer with a strong foundation in building scalable
 ### ⚙️ Frameworks & Libraries  
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=flat&logo=springboot)
 ![Django](https://img.shields.io/badge/Django-green?style=flat&logo=django)
-![AngularJS](https://img.shields.io/badge/AngularJS-red?style=flat&logo=angularjs)
+![Angular](https://img.shields.io/badge/Angular-red?style=flat&logo=angular)
 ![React](https://img.shields.io/badge/React-blue?style=flat&logo=react)
 
 ---
