@@ -11,42 +11,40 @@ Aspiring Full Stack Java Developer with a strong foundation in building scalable
 
 
 ### 💻 Programming Languages  
-![C](https://img.shields.io/badge/C-orange?style=flat&logo=c)
-![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-orange?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/SQL-blue?style=flat&logo=postgresql)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-orange?style=flat&logo=javascript)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ---
 
 ### ⚙️ Frameworks & Libraries  
-![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=flat&logo=springboot)
-![Django](https://img.shields.io/badge/Django-green?style=flat&logo=django)
-![Angular](https://img.shields.io/badge/Angular-red?style=flat&logo=angular)
-![React](https://img.shields.io/badge/React-blue?style=flat&logo=react)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![AngularJS](https://img.shields.io/badge/AngularJS-DD0031?style=flat&logo=angularjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
 ---
 
 ### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb)
-![Vector DB](https://img.shields.io/badge/VectorDB-purple?style=flat&logo=databricks)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Vector DB](https://img.shields.io/badge/VectorDB-FF4C9F?style=flat&logo=databricks&logoColor=white)
 
 ---
 
 ### 🛠️ Development Tools & IDEs  
-![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=flat&logo=visual-studio-code)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-purple?style=flat&logo=intellij-idea)
-![Eclipse](https://img.shields.io/badge/Eclipse-darkblue?style=flat&logo=eclipse)
-![Shopify](https://img.shields.io/badge/Shopify-green?style=flat&logo=shopify)
-![Postman](https://img.shields.io/badge/Postman-orange?style=flat&logo=postman)
-![Git](https://img.shields.io/badge/Git-red?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
- 
-
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat&logo=shopify&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
