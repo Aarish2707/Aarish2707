@@ -11,8 +11,10 @@ Aspiring Full Stack Java Developer with a strong foundation in building scalable
 
 
 ![Java](https://img.shields.io/badge/Code-Java-orange?style=flat&logo=java)
-![Python](https://img.shields.io/badge/Code-Python-orange?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-orange?style=flat&logo=java)
+![Python](https://img.shields.io/badge/Code-Python-orange?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-orange?style=flat&logo=javascript)
+![C](https://img.shields.io/badge/Code-C-orange?style=flat&logo=c)
+
 
 
 ![Spring Boot](https://img.shields.io/badge/Framework-SpringBoot-green?style=flat&logo=springboot)
