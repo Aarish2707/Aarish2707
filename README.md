@@ -98,6 +98,9 @@ Check out my highlighted repositories:
 👉 [https://github.com/Aarish2707/Portfolio]
 _My Portfolio that contains all my info._
 
+👉 [https://github.com/Aarish2707/Readme-Generator]
+_An AI powered Readme file generator based on Java+React integrated with google gemini flash._
+
 👉 [(https://github.com/Aarish2707/Password_Generator)]
 _A showcase of my core skills in Java and React.js._
 
